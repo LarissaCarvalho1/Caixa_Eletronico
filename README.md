@@ -1,2 +1,2 @@
 # Caixa_Eletrônico 🏦
-Projeto de ajustes e melhorias de um caixa eletrônico. 
+Projeto de ajustes e melhorias em um caixa eletrônico. 
